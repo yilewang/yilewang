@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on The University of Texas at Dallas
 - 🌱 I’m currently learning Math & Brain Dynamics
-- 🤔 I’m looking for help with how to systematically study all the concepts from dynamic system...
+- 🤔 I’m looking for help with studying dynamic system theory...
 - 💬 Ask me about Anything!
 - 📫 How to reach me: My work email: yile.wang@utdallas.edu
 - ⚡ Fun fact: I love buying games more than playing games lol
