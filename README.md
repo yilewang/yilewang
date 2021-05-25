@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Math & Brain Dynamics
 - 🤔 I’m looking for help with how to systematically study all the concepts from dynamic system...
 - 💬 Ask me about Anything!
-- 📫 How to reach me: My work email: yxw190015@utdallas.edu
+- 📫 How to reach me: My work email: yile.wang@utdallas.edu
 - ⚡ Fun fact: I love buying games more than playing games lol
 
 <!--
