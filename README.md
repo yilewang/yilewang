@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with studying dynamic system theory...
 - 💬 Ask me about Anything!
 - 📫 How to reach me: My work email: yile.wang@utdallas.edu
-- ⚡ Fun fact: I love buying games more than playing games lol
+- ⚡ Fun fact: I love buying games more than playing them lol
 
 <!--
 **yilewang/yilewang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
