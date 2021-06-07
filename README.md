@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Badge](https://img.shields.io/website-yilewang-down-green-red/http/monip.org.svg?style=flat-square)](https://yilewang.github.io)
+[![Badge](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=flat-square)](https://yilewang.github.io)
 
 - 🔭 I’m currently working on The University of Texas at Dallas
 - 🌱 I’m currently learning Math & Brain Dynamics
