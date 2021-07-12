@@ -2,10 +2,8 @@
 
 [![Badge](https://img.shields.io/badge/website-yilewang.github.io-%23FF4D5B.svg?style=flat-square)](https://yilewang.github.io)
 
-- 🔭 I’m currently working on The University of Texas at Dallas
-- 🌱 I’m currently learning Math & Brain Dynamics
-- 🤔 I’m looking for help with studying dynamic system theory...
-- 💬 Ask me about Anything!
+- 🔭 Currently I am a PhD student in Brain Circuits Lab, The University of Texas at Dallas
+- 🌱 I am interested in brain dynamics and criticality of rthe neural system.
 - 📫 How to reach me: My work email: yile.wang@utdallas.edu
 - ⚡ Fun fact: I love buying games more than playing them lol
 
