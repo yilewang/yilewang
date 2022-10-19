@@ -4,7 +4,7 @@
 
 - 🔭 Currently I am a PhD student in Brain Circuits Lab, The University of Texas at Dallas
 - 🌱 I am interested in brain dynamics and criticality of the neural system.
-- 📫 How to reach me: My work email: yile.wang@utdallas.edu
+- 📫 Reach out to me: My work email: yile.wang@utdallas.edu
 - ⚡ Fun fact: I love buying games more than playing them lol
 
 <!--
