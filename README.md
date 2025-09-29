@@ -2,10 +2,10 @@
 
 [![Badge](https://img.shields.io/badge/website-yilewang.github.io-%23FF4D5B.svg?style=flat-square)](https://yilewang.github.io)
 
-- 🔭 Currently I am a PhD student in Brain Circuits Lab, The University of Texas at Dallas
-- 🌱 I am interested in brain dynamics and criticality of the neural system.
+- 🔭 Currently I am a PhD student at The University of Texas at Dallas
+- 🌱 I am interested in neural representation, computational mechanisms of learning and memory.
 - 📫 Reach out to me: My work email: yile.wang@utdallas.edu
-- ⚡ Fun fact: I love buying games more than playing them lol
+- ⚡ Fun fact: I love buying games more than playing them.
 
 <!--
 **yilewang/yilewang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
